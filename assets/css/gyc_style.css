@@ -1,0 +1,12 @@
+
+.simpleGauge_tick {
+    background: #999;
+    width: 2px;
+    height: 4px;
+}
+.simpleGauge_container{
+    overflow: visible !important;
+}
+.b-gauge svg {
+    overflow: visible;
+}
